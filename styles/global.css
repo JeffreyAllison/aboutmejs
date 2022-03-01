@@ -1,6 +1,6 @@
 
 :root {
-    --primary-background: #fdf4ff;
+    --primary-background: #fff9f4;
     --chrome-background: #74e38c;
     --chrome-background-opaque: #bce374d1;
     --secondary-background: #b1c99b;
@@ -13,7 +13,7 @@
 
 body {
     /* style */
-    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
     background-color: var(--primary-background);
     color: var(--text-color);
 
