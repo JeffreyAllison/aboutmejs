@@ -1,9 +1,9 @@
 body {
     /* feel free to update these css variables for a quick theme */
 
-    --color1: white;
-    --color2: white;
-    --color3: white;
+    --color1: rgb(255, 255, 255);
+    --color2: rgb(255, 255, 255);
+    --color3: rgb(255, 255, 255);
     --color4: white;
     --color5: white;
 
@@ -27,7 +27,7 @@ body {
     --footer-height: 30px;
 
     font-family: 'Titillium Web', sans-serif;
-    background-color: var(--color2);
+    background-color: var(--color3);
 }
 
 main {

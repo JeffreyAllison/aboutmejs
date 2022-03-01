@@ -1,19 +1,19 @@
 
 :root {
-    --primary-background: #FFFFF4;
-    --chrome-background: #e3b574;
-    --chrome-background-opaque: #e3b574d1;
-    --secondary-background: #C9B39B;
+    --primary-background: #fdf4ff;
+    --chrome-background: #74e38c;
+    --chrome-background-opaque: #bce374d1;
+    --secondary-background: #b1c99b;
     --text-color: #32363F;
-    --accent-light: #ED8F11;
-    --accent-dark: #C27A18;
+    --accent-light: #74ed11;
+    --accent-dark: #18c29d;
     
     --gutter: 30px;
 }
 
 body {
     /* style */
-    font-family: 'Titillium Web', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
     background-color: var(--primary-background);
     color: var(--text-color);
 
