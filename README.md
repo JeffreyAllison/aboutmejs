@@ -125,6 +125,9 @@ Build an app that shows a user's bio and info on a button click
 
 18. Make a pull request and check the PREVIEW deploy to validate that you application works and submit that url on Canvas.
 
+PLAN - 
+create drawing/wire
+
 ---
 
 ## Example
