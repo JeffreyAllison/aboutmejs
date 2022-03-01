@@ -43,3 +43,7 @@ footer {
     padding: 10px var(--gutter);
     align-self: stretch;
 }
+
+.hidden {
+    display: none;
+}

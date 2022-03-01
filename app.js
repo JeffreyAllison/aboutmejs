@@ -9,6 +9,5 @@ const animal = document.getElementById('animalDiv');
     // use user input to update state 
     // update DOM to reflect the new state
     showButton.addEventListener('click', () => {
-
-    {animal.classList.remove('hidden');
+    animal.classList.remove('hidden');
     });
