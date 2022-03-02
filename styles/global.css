@@ -1,19 +1,19 @@
 
 :root {
-    --primary-background: #FFFFF4;
-    --chrome-background: #e3b574;
-    --chrome-background-opaque: #e3b574d1;
-    --secondary-background: #C9B39B;
+    --primary-background: #fef4ff;
+    --chrome-background: #74e386;
+    --chrome-background-opaque: #e374c2d1;
+    --secondary-background: #b1c99b;
     --text-color: #32363F;
-    --accent-light: #ED8F11;
-    --accent-dark: #C27A18;
+    --accent-light: #74ed11;
+    --accent-dark: #18c29d;
     
     --gutter: 30px;
 }
 
 body {
     /* style */
-    font-family: 'Titillium Web', sans-serif;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
     background-color: var(--primary-background);
     color: var(--text-color);
 
@@ -29,7 +29,7 @@ header {
     display: flex;
     justify-content: flex-start;
     background-color: var(--chrome-background);
-    box-shadow: 0px 10px 20px -12px rgba(0,0,0,0.45);
+    box-shadow: 3px 10px 20px -12px rgba(0,0,0,0.45);
     padding: 0 var(--gutter);
 }
 
@@ -40,6 +40,10 @@ main {
 
 footer {
     background-color: var(--chrome-background-opaque);
-    padding: 10px var(--gutter);
+    padding: 30px var(--gutter);
     align-self: stretch;
+}
+
+.hidden {
+    display: none;
 }

@@ -1,11 +1,11 @@
 body {
     /* feel free to update these css variables for a quick theme */
 
-    --color1: white;
-    --color2: white;
-    --color3: white;
-    --color4: white;
-    --color5: white;
+    --color1: rgb(255, 255, 255);
+    --color2: rgb(255, 255, 255);
+    --color3: rgb(255, 255, 255);
+    --color4: blue;
+    --color5: rgb(255, 255, 255);
 
     /* https://coolors.co/generate and click export -> scss to get the colors to copy and paste below*/
 
@@ -21,13 +21,13 @@ body {
     --color4: hsla(45, 73%, 98%, 1);
     --color5: hsla(224, 40%, 79%, 1); */
 
-    --header-height: 80px;
+    --header-height: 88px;
     --shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.45);
     --gutter: 30px;
-    --footer-height: 30px;
+    --footer-height: 40px;
 
     font-family: 'Titillium Web', sans-serif;
-    background-color: var(--color2);
+    background-color: var(--color3);
 }
 
 main {
